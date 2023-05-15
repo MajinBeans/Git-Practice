@@ -1,0 +1,12 @@
+new-item item.name # creates new item on windows
+touch item.name # creates new item on linux
+ctrl+s # SAVES
+ctrl+c # copies
+ctrl+v # paste
+ctrl+a # hightlight everything
+ctrl+z # undo
+
+git config --global unit.defaultbranch main # changes future branches from master to main
+git branch -m master main # changes branch to main
+
+-- add -- commit -- pull -- push --
