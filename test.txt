@@ -10,3 +10,6 @@ git config --global unit.defaultbranch main # changes future branches from maste
 git branch -m master main # changes branch to main
 
 -- add -- commit -- pull -- push --
+
+Git is used for version control!
+Git is important for your future work experience!
