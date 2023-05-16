@@ -13,3 +13,10 @@ git branch -m master main # changes branch to main
 
 Git is used for version control!
 Git is important for your future work experience!
+
+main <
+---angel merge
+---cody
+---dean 
+
+This is a change only in my personal branch!
