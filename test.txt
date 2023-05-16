@@ -20,3 +20,8 @@ main <
 ---dean 
 
 This is a change only in my personal branch!
+
+git checkout -b name # this creates a branch and switches you to it.
+git checkout name # switches you to target branch.
+git branch # displays the branches you have access to which one you're in
+
